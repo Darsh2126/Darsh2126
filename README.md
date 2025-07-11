@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hello! I'm Darsh Gajdhar
+I'm a passionate React Developer, 3+ years experience building responsive web apps & interactive UIs.
 
-<!--
-**Darsh2126/Darsh2126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css)
 
-Here are some ideas to get you started:
+## 🕹️ Projects
+- 🎮 [Game-Inspired Portfolio](https://darshgajdhar.in) (Coming Soon !!!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Fun Facts
+- I love building portfolio UIs that feel like video games
+- On weekends I study Cybersecurity + DSA + C++ (Because you know whats chasing you 😜
