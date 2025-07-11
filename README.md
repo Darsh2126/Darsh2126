@@ -11,4 +11,4 @@ I'm a passionate React Developer, 3+ years experience building responsive web ap
 
 ## ✨ Fun Facts
 - I love building portfolio UIs that feel like video games
-- On weekends I study Cybersecurity + DSA + C++ (Because you know whats chasing you 😜
+- On weekends I study Cybersecurity + DSA + C++ (Because you know whats chasing you 😜)
