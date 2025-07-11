@@ -52,8 +52,8 @@
 ## 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/-darshgajdhar.in-000?style=for-the-badge&logo=vercel&logoColor=white)](https://darshgajdhar.in)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshgajdhar)
-[![Twitter](https://img.shields.io/badge/-X-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/darshgajdhar) <!-- if you use X -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darsh-gajdhar)
+[![Twitter](https://img.shields.io/badge/-X-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DGajdhar) <!-- if you use X -->
 
 ---
 
