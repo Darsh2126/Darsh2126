@@ -17,7 +17,7 @@
 ---
 
 ## 🕹️ Projects
-- 🎮 [Game-Inspired Portfolio](https://darshgajdhar.in) (Coming Soon 🚧)
+- 🎮 [Game-Inspired Portfolio](https://darshgajdhar.in) (Updating in progress!! 🚧)
 - ⌨️ Remaining projects are **pinned below** — check them out!
 
 ---
