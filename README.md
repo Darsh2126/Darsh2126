@@ -36,7 +36,7 @@
 
 ---
 
-## 🧠 Learning Goals (r format(Sys.time(), '%Y'))
+## 🧠 Learning Goals
 - ⚔️ Data Structures & Algorithms (with JS)
 - ⚙️ System Design (Scalable Architecture & Patterns)
 
