@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Darsh Gajdhar
 
-🎯 A passionate **React Developer** with 3+ years of experience crafting clean, responsive, and dynamic UIs.  
+🎯 A passionate **React Developer** with 4+ years of experience crafting clean, responsive, and dynamic UIs.  
 💡 I love blending technology with creativity—especially when the UI feels like a **game**.  
 
 ---
@@ -36,9 +36,8 @@
 
 ---
 
-## 🧠 Learning Goals (2025)
-- ⚔️ Data Structures & Algorithms (with C++)
-- 🛡️ Cybersecurity (Weekend Study from CompTIA+)
+## 🧠 Learning Goals (r format(Sys.time(), '%Y'))
+- ⚔️ Data Structures & Algorithms (with JS)
 - ⚙️ System Design (Scalable Architecture & Patterns)
 
 ---
