@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Darsh Gajdhar
 
-🎯 A passionate **React Developer** with 4+ years of experience crafting clean, responsive, and dynamic UIs.  
+🎯 A passionate **Software Developer** with 4+ years of experience crafting clean, responsive, and dynamic UIs.  
 💡 I love blending technology with creativity—especially when the UI feels like a **game**.  
 
 ---
@@ -33,20 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshgajdhar&layout=compact&theme=tokyonight" width="49%" />
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=darshgajdhar&theme=react-dark" width="98%" />
 </p>
-
----
-
-## 🧠 Learning Goals
-- ⚔️ Data Structures & Algorithms (with JS)
-- ⚙️ System Design (Scalable Architecture & Patterns)
-
----
-
-## ✨ Fun Facts
-- Apart from these having a great interest on animes
-- On weekends, I chase: `Hackers > Interviews > Passion projects` 😎 (Not everytime but wants that consistency 😉)
-
----
 
 ## 🌐 Connect With Me
 
